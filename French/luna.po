@@ -5,20 +5,20 @@ msgstr ""
 "Project-Id-Version: Luna 1.1\n"
 "Report-Msgid-Bugs-To: http://getluna.org\n"
 "POT-Creation-Date: 2015-04-25 10:47+0100\n"
-"PO-Revision-Date: 2015-09-30 22:11-0500\n"
+"PO-Revision-Date: 2015-09-30 22:24-0400\n"
 "Last-Translator: François Allard <llard.f@kitaiweb.ca>\n"
 "Language-Team: Luna\n"
-"Language: en\n"
+"Language: fr_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.8.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: backstage/features.php:16 backstage/registration.php:16
-#: backstage/email.php:16 backstage/settings.php:17
-#: backstage/appearance.php:16 backstage/update.php:34
+#: backstage/email.php:16 backstage/settings.php:17 backstage/appearance.php:16
+#: backstage/update.php:34
 msgid ""
 "Bad HTTP_REFERER. If you have moved these forums from one location to "
 "another or switched domains, you need to update the Base URL manually in the "
@@ -81,10 +81,10 @@ msgstr "Général"
 #: backstage/settings.php:330 backstage/settings.php:362
 #: backstage/settings.php:382 backstage/settings.php:435
 #: backstage/appearance.php:82 backstage/appearance.php:177
-#: backstage/appearance.php:209 backstage/users.php:294
-#: backstage/update.php:83 backstage/index.php:240 backstage/board.php:190
-#: backstage/board.php:312 backstage/board.php:592 backstage/board.php:638
-#: backstage/ranks.php:124 backstage/groups.php:48 backstage/groups.php:597
+#: backstage/appearance.php:209 backstage/users.php:294 backstage/update.php:83
+#: backstage/index.php:240 backstage/board.php:190 backstage/board.php:312
+#: backstage/board.php:592 backstage/board.php:638 backstage/ranks.php:124
+#: backstage/groups.php:48 backstage/groups.php:597
 #: themes/Fifteen/settings.php:34 themes/Fifteen/settings.php:504
 #: themes/Fifteen/me-modals.php:17 themes/Fifteen/me-modals.php:43
 msgid "Save"
@@ -308,10 +308,10 @@ msgstr ""
 #: backstage/moderate.php:721 backstage/moderate.php:736
 #: backstage/moderate.php:750 backstage/moderate.php:766
 #: backstage/settings.php:61 backstage/settings.php:97
-#: backstage/settings.php:100 backstage/settings.php:103
-#: backstage/users.php:19 backstage/board.php:22 backstage/board.php:36
-#: backstage/board.php:110 backstage/board.php:128 backstage/board.php:170
-#: backstage/board.php:394 backstage/board.php:475 backstage/ranks.php:49
+#: backstage/settings.php:100 backstage/settings.php:103 backstage/users.php:19
+#: backstage/board.php:22 backstage/board.php:36 backstage/board.php:110
+#: backstage/board.php:128 backstage/board.php:170 backstage/board.php:394
+#: backstage/board.php:475 backstage/ranks.php:49
 #: include/draw_functions.php:446
 msgid ""
 "Bad request. The link you followed is incorrect, outdated or you are simply "
@@ -333,8 +333,8 @@ msgid "Add"
 msgstr ""
 
 #: backstage/menu.php:84 backstage/menu.php:107 backstage/board.php:526
-#: backstage/board.php:545 backstage/board.php:644
-#: themes/Fifteen/thread.php:58 themes/Fifteen/post.php:33
+#: backstage/board.php:545 backstage/board.php:644 themes/Fifteen/thread.php:58
+#: themes/Fifteen/post.php:33
 msgid "Name"
 msgstr ""
 
@@ -1284,8 +1284,7 @@ msgid "New subject"
 msgstr ""
 
 #: backstage/moderate.php:351 backstage/users.php:170 backstage/tools.php:40
-#: include/install.php:1516 include/functions.php:480
-#: include/functions.php:884
+#: include/install.php:1516 include/functions.php:480 include/functions.php:884
 msgid "Guest"
 msgstr ""
 
