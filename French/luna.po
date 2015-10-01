@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Luna 1.1\n"
 "Report-Msgid-Bugs-To: http://getluna.org\n"
 "POT-Creation-Date: 2015-04-25 10:47+0100\n"
-"PO-Revision-Date: 2015-09-30 22:24-0400\n"
+"PO-Revision-Date: 2015-10-01 10:50-0400\n"
 "Last-Translator: François Allard <llard.f@kitaiweb.ca>\n"
 "Language-Team: Luna\n"
 "Language: fr_CA\n"
@@ -287,11 +287,11 @@ msgstr ""
 
 #: backstage/menu.php:22 backstage/menu.php:54
 msgid "You must give your menu item a title."
-msgstr ""
+msgstr "Vous devez donner un titre à votre élément de menu."
 
 #: backstage/menu.php:24 backstage/menu.php:56
 msgid "You must give your menu item an URL."
-msgstr ""
+msgstr "Vous devez donner une URL à votre élément de menu."
 
 #: backstage/menu.php:34 backstage/menu.php:44 backstage/registration.php:35
 #: backstage/loader.php:19 backstage/bans.php:23 backstage/bans.php:69
@@ -317,43 +317,45 @@ msgid ""
 "Bad request. The link you followed is incorrect, outdated or you are simply "
 "not allowed to hang around here."
 msgstr ""
+"Demande incorrecte. Le lien que vous avez suivi est incorrect, obsolète ou "
+"vous n'êtes tout simplement pas autorisé à vous promener ici."
 
 #: backstage/menu.php:58 backstage/board.php:101 backstage/board.php:485
 msgid "Position must be a positive integer value."
-msgstr ""
+msgstr "La position doit être une valeur entière positive."
 
 #: backstage/menu.php:78
 msgid "New menu item"
-msgstr ""
+msgstr "Nouvel élément de menu"
 
 #: backstage/menu.php:78 backstage/bans.php:414 backstage/tools.php:128
 #: backstage/censoring.php:89 backstage/board.php:510 backstage/board.php:539
 #: backstage/ranks.php:103 backstage/groups.php:572
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: backstage/menu.php:84 backstage/menu.php:107 backstage/board.php:526
 #: backstage/board.php:545 backstage/board.php:644 themes/Fifteen/thread.php:58
 #: themes/Fifteen/post.php:33
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: backstage/menu.php:89 backstage/menu.php:108 include/draw_functions.php:102
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: backstage/menu.php:102 include/backstage_functions.php:57
 #: include/backstage_functions.php:174
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: backstage/menu.php:109 backstage/board.php:645
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 #: backstage/menu.php:110
 msgid "Show"
-msgstr ""
+msgstr "Afficher"
 
 #: backstage/menu.php:111 backstage/menu.php:135 backstage/menu.php:137
 #: backstage/moderate.php:138 backstage/moderate.php:390
@@ -365,33 +367,35 @@ msgstr ""
 #: themes/Fifteen/inbox-delete.php:12 themes/Fifteen/inbox.php:30
 #: themes/Fifteen/me-delete.php:13
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: backstage/registration.php:30
 msgid "Enter your rules here."
-msgstr ""
+msgstr "Entrez les règles ici."
 
 #: backstage/registration.php:59 backstage/registration.php:70
 #: backstage/permissions.php:148 backstage/permissions.php:153
 #: include/backstage_functions.php:53 include/backstage_functions.php:172
 msgid "Registration"
-msgstr ""
+msgstr "Inscription"
 
 #: backstage/registration.php:76
 msgid "Allow new registrations"
-msgstr ""
+msgstr "Autoriser les nouvelles inscriptions"
 
 #: backstage/registration.php:81
 msgid "Allow new users to be made by people."
-msgstr ""
+msgstr "Autoriser les nouveaux utilisateurs d'être fait par des personnes."
 
 #: backstage/registration.php:87
 msgid "Verify registrations"
-msgstr ""
+msgstr "Vérifier les inscriptions"
 
 #: backstage/registration.php:92
 msgid "Send a random password to users to verify their email address.  "
 msgstr ""
+"Envoyer un mot de passe aléatoire pendant que les utilisateurs vérifient "
+"leur courriel."
 
 #: backstage/registration.php:98
 msgid "Report new registrations"
@@ -400,44 +404,50 @@ msgstr ""
 #: backstage/registration.php:103
 msgid "Notify people on the mailing list when new user registers.  "
 msgstr ""
+"Notifier les personnes sur la liste de courriel quand un nouvel utilisateur "
+"s'inscrit."
 
 #: backstage/registration.php:110
 msgid "User forum rules"
-msgstr ""
+msgstr "Règles du forum utilisateur"
 
 #: backstage/registration.php:115
 msgid ""
 "Require users to agree with the rules. This will enable a \"Rules\" panel in "
 "Help."
 msgstr ""
+"Obliger les utilisateurs à accepter les règles. Ceci va activer un panneau "
+"\"Règles\" dans Aide."
 
 #: backstage/registration.php:121
 msgid "Enter your rules here"
-msgstr ""
+msgstr "Entrez vos règles ici"
 
 #: backstage/registration.php:121
 msgid "Enter rules or useful information, required when rules are enabled"
 msgstr ""
+"Entrez vos règles ou informations utiles, nécessaire quand les règles sont "
+"activées."
 
 #: backstage/registration.php:128
 msgid "Default email setting"
-msgstr ""
+msgstr "Configuration courriel par défaut"
 
 #: backstage/registration.php:130
 msgid "Default privacy setting for new registrations"
-msgstr ""
+msgstr "Configuration de vie privée par défaut pour les nouvelles inscriptions"
 
 #: backstage/registration.php:134
 msgid "Display email address to other users."
-msgstr ""
+msgstr "Afficher l'adresse courriel aux autres utilisateurs."
 
 #: backstage/registration.php:140
 msgid "Hide email address but allow form e-mail."
-msgstr ""
+msgstr "Cacher l'adresse courriel, mais autoriser l'envoi d'emails."
 
 #: backstage/registration.php:146
 msgid "Hide email address and disallow form email."
-msgstr ""
+msgstr "Cacher l'adresse courriel et empêcher l'envoi d'emails."
 
 #: backstage/system.php:23
 msgid "The PHP function phpinfo() has been disabled on this server."
@@ -445,7 +455,7 @@ msgstr ""
 
 #: backstage/system.php:44 backstage/system.php:48
 msgid "Not available"
-msgstr ""
+msgstr "Non disponible"
 
 #: backstage/system.php:73
 msgid "turck-mmcache.sourceforge.net/"
@@ -497,90 +507,90 @@ msgstr ""
 
 #: backstage/system.php:85 backstage/reports.php:131 backstage/reports.php:132
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: backstage/system.php:88 backstage/system.php:131
 msgid "Server statistics"
-msgstr ""
+msgstr "Statistiques du serveur"
 
 #: backstage/system.php:96
 msgid "Luna version information"
-msgstr ""
+msgstr "Information de la version de Luna"
 
 #: backstage/system.php:102 backstage/system.php:104
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: backstage/system.php:109
 msgid "Software version"
-msgstr ""
+msgstr "Version logicielle"
 
 #: backstage/system.php:111
 msgid "Bootstrap version"
-msgstr ""
+msgstr "Version de Bootstrap"
 
 #: backstage/system.php:115
 msgid "Core version"
-msgstr ""
+msgstr "Version du cœur"
 
 #: backstage/system.php:117
 msgid "Font Awesome version"
-msgstr ""
+msgstr "Version de la police Awesome"
 
 #: backstage/system.php:121
 msgid "Database version"
-msgstr ""
+msgstr "Version de la base de données"
 
 #: backstage/system.php:123
 msgid "jQuery version"
-msgstr ""
+msgstr "Version de jQuery"
 
 #: backstage/system.php:136
 msgid "Server load"
-msgstr ""
+msgstr "Chargement du serveur"
 
 #: backstage/system.php:138
 msgid "Environment"
-msgstr ""
+msgstr "Environnement"
 
 #: backstage/system.php:139 backstage/database.php:509
 #: include/backstage_functions.php:181
 msgid "Database"
-msgstr ""
+msgstr "Base de données"
 
 #: backstage/system.php:145
 #, php-format
 msgid "%s - %s user(s) online"
-msgstr ""
+msgstr "%s - %s utilisateur(s) en ligne"
 
 #: backstage/system.php:148
 #, php-format
 msgid "Operating system: %s"
-msgstr ""
+msgstr "Système d'exploitation: %s"
 
 #: backstage/system.php:149
 #, php-format
 msgid "PHP: %s - %s"
-msgstr ""
+msgstr "PHP: %s - %s"
 
 #: backstage/system.php:149
 msgid "Show info"
-msgstr ""
+msgstr "Afficher informations"
 
 #: backstage/system.php:150
 #, php-format
 msgid "Accelerator: %s"
-msgstr ""
+msgstr "Accélérateur: %s"
 
 #: backstage/system.php:155
 #, php-format
 msgid "Rows: %s"
-msgstr ""
+msgstr "Rangées: %s"
 
 #: backstage/system.php:156
 #, php-format
 msgid "Size: %s"
-msgstr ""
+msgstr "Taille: %s"
 
 #: backstage/prune.php:63
 msgid "Days to prune must be a positive integer value."
@@ -588,7 +598,7 @@ msgstr ""
 
 #: backstage/prune.php:81 backstage/prune.php:250
 msgid "All forums"
-msgstr ""
+msgstr "Tous les forums"
 
 #: backstage/prune.php:87
 #, php-format
@@ -596,6 +606,8 @@ msgid ""
 "There are no topics that are %s days old. Please decrease the value of "
 "\"Days old\" and try again."
 msgstr ""
+"Il n'y a pas de sujet vieux de %s jours. Veuillez réduire la valeur de \"Âge "
+"en jours\" et réessayer."
 
 #: backstage/prune.php:89 backstage/prune.php:97 backstage/prune.php:111
 #: backstage/prune.php:191 backstage/prune.php:221 backstage/prune.php:280
@@ -634,7 +646,7 @@ msgstr ""
 #: include/backstage_functions.php:179 themes/Fifteen/maintenance.php:10
 #: themes/Fifteen/maintenance.php:16 db_update.php:185 db_update.php:191
 msgid "Maintenance"
-msgstr ""
+msgstr "Maintenance"
 
 #: backstage/prune.php:191
 msgid "Prune notifications"
@@ -647,23 +659,23 @@ msgstr ""
 
 #: backstage/prune.php:196 backstage/prune.php:226 backstage/prune.php:284
 msgid "maintenance mode"
-msgstr ""
+msgstr "mode de maintenance"
 
 #: backstage/prune.php:198
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: backstage/prune.php:202
 msgid "All notifications"
-msgstr ""
+msgstr "Toutes les notifications"
 
 #: backstage/prune.php:206 themes/Fifteen/notifications.php:38
 msgid "Seen notifications"
-msgstr ""
+msgstr "Notifications vues"
 
 #: backstage/prune.php:210 themes/Fifteen/notifications.php:25
 msgid "New notifications"
-msgstr ""
+msgstr "Nouvelles notifications"
 
 #: backstage/prune.php:221
 msgid "Prune old posts"
@@ -671,7 +683,7 @@ msgstr ""
 
 #: backstage/prune.php:228
 msgid "Days old"
-msgstr ""
+msgstr "Âge en jours"
 
 #: backstage/prune.php:228
 msgid "The number of days old a topic must be to be pruned"
@@ -684,12 +696,12 @@ msgstr ""
 #: backstage/prune.php:238 backstage/prune.php:315 backstage/database.php:544
 #: backstage/users.php:558
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: backstage/prune.php:242 backstage/prune.php:318 backstage/database.php:548
 #: backstage/users.php:562
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: backstage/prune.php:247
 msgid "Prune from forum"
@@ -713,23 +725,23 @@ msgstr ""
 
 #: backstage/prune.php:290
 msgid "Registered date"
-msgstr ""
+msgstr "Date d'enregistrement"
 
 #: backstage/prune.php:294
 msgid "Last login"
-msgstr ""
+msgstr "Dernière connexion"
 
 #: backstage/prune.php:299
 msgid "Minimum days since registration/last login"
-msgstr ""
+msgstr "Jours minimum depuis l'inscription/dernière connexion"
 
 #: backstage/prune.php:299
 msgid "The minimum amount of days since event specified above"
-msgstr ""
+msgstr "Le nombre minimum de jours depuis l'évènement spécifié au dessus"
 
 #: backstage/prune.php:305
 msgid "Maximum number of posts"
-msgstr ""
+msgstr "Nombre maximum de messages"
 
 #: backstage/prune.php:305
 msgid "How many posts do you require before an users isn't pruned"
@@ -737,54 +749,57 @@ msgstr ""
 
 #: backstage/prune.php:311
 msgid "Delete admins and mods"
-msgstr ""
+msgstr "Supprimer les administrateurs et les modérateurs"
 
 #: backstage/prune.php:323
 msgid "User status"
-msgstr ""
+msgstr "État de l'utilisateur"
 
 #: backstage/prune.php:327
 msgid "Delete any"
-msgstr ""
+msgstr "Supprimer n'importe quel"
 
 #: backstage/prune.php:331
 msgid "Delete only verified"
-msgstr ""
+msgstr "Supprimer seulement vérifié"
 
 #: backstage/prune.php:335
 msgid "Delete only unverified"
-msgstr ""
+msgstr "Supprimer seulement non vérifié"
 
 #: backstage/loader.php:24 backstage/moderate.php:20 backstage/moderate.php:70
 #: backstage/moderate.php:648 backstage/users.php:197 backstage/users.php:311
 #: backstage/users.php:446
 msgid "You do not have permission to access this page."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'accéder à cette page."
 
 #: backstage/loader.php:28
 #, php-format
 msgid "There is no plugin called %s in the plugin directory."
-msgstr ""
+msgstr "Il n'y a pas de plugin nommé %s dans le répertoire des plugins."
 
 #: backstage/loader.php:43
 #, php-format
 msgid "Loading of the plugin - <strong>%s</strong> - failed."
-msgstr ""
+msgstr "Le chargement du plugin - <strong>%s</strong> - a échoué."
 
 #: backstage/about.php:16 backstage/censoring.php:141 backstage/update.php:68
 #: include/backstage_functions.php:148
 msgid "Update"
-msgstr ""
+msgstr "Mise-à-jour"
 
 #: backstage/bans.php:29
 msgid "No user by that ID registered."
-msgstr ""
+msgstr "Aucun utilisateur avec cet ID est inscrit."
 
 #: backstage/bans.php:38
 msgid ""
 "No user by that username registered. If you want to add a ban not tied to a "
 "specific username just leave the username blank."
 msgstr ""
+"Aucun utilisateur avec ce nom est inscrit. Si vous voulez ajouter une "
+"interdiction qui n'est pas liée à un nom d'utilisateur spécifique, laissez "
+"le nom d'utilisateur vide."
 
 #: backstage/bans.php:45 backstage/bans.php:172
 #, php-format
@@ -792,6 +807,8 @@ msgid ""
 "The user %s is an administrator and can't be banned. If you want to ban an "
 "administrator, you must first demote him/her."
 msgstr ""
+"L'utilisateur %s est un administrateur et ne peut pas être exclu. Si vous "
+"voulez exclure un administrateur, vous devez d'abord le rétrograder."
 
 #: backstage/bans.php:51 backstage/bans.php:178
 #, php-format
@@ -799,16 +816,18 @@ msgid ""
 "The user %s is a moderator and can't be banned. If you want to ban a "
 "moderator, you must first demote him/her."
 msgstr ""
+"L'utilisateur %s est un modérateur et ne peut pas être exclu. Si vous voulez "
+"exclure un modérateur, vous devez d'abord le rétrograder."
 
 #: backstage/bans.php:83 backstage/bans.php:334 backstage/bans.php:397
 #: backstage/users.php:524 include/backstage_functions.php:44
 #: include/backstage_functions.php:165
 msgid "Bans"
-msgstr ""
+msgstr "Interdictions"
 
 #: backstage/bans.php:93
 msgid "Supplement ban with IP and email"
-msgstr ""
+msgstr "Interdiction supplémentaire par IP et courriel"
 
 #: backstage/bans.php:100 backstage/bans.php:350 backstage/bans.php:433
 #: backstage/bans.php:456 backstage/login.php:21 backstage/users.php:121
@@ -817,28 +836,28 @@ msgstr ""
 #: themes/Fifteen/login.php:13 themes/Fifteen/settings.php:56
 #: themes/Fifteen/index.php:46 themes/Sunrise/index.php:44
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: backstage/bans.php:100
 msgid "The username to ban"
-msgstr ""
+msgstr "Nom d'utilisateur à exclure"
 
 #: backstage/bans.php:106 backstage/bans.php:435
 msgid "IP address/IP-ranges"
-msgstr ""
+msgstr "Adresse IP/plage d'adresses IP"
 
 #: backstage/bans.php:106
 msgid "The IP you wish to ban, separate addresses with spaces"
-msgstr ""
+msgstr "L'IP que vous voulez interdire, séparez les adresses avec des espaces"
 
 #: backstage/bans.php:106
 #, php-format
 msgid "Click %s to see IP statistics for this user."
-msgstr ""
+msgstr "Cliquez %s pour voir les statistiques IP de l'utilisateur."
 
 #: backstage/bans.php:106
 msgid "here"
-msgstr ""
+msgstr "ici"
 
 #: backstage/bans.php:112 backstage/bans.php:351 backstage/bans.php:439
 #: backstage/bans.php:458 backstage/settings.php:343 backstage/users.php:122
@@ -851,31 +870,33 @@ msgstr ""
 #: themes/Fifteen/thread.php:59 themes/Fifteen/login.php:42
 #: themes/Fifteen/post.php:34 themes/Fifteen/settings.php:70
 msgid "Email"
-msgstr ""
+msgstr "Courriel"
 
 #: backstage/bans.php:112
 msgid "The email or email domain you wish to ban"
-msgstr ""
+msgstr "Le courriel ou le domaine de courriel que vous voulez interdire"
 
 #: backstage/bans.php:122
 msgid "Ban message and expiry"
-msgstr ""
+msgstr "Message à exclure et expiration"
 
 #: backstage/bans.php:127 backstage/users.php:540
 msgid "Ban message"
-msgstr ""
+msgstr "Message à exclure"
 
 #: backstage/bans.php:127 backstage/users.php:543
 msgid "A message for banned users"
-msgstr ""
+msgstr "Un message pour les utilisateurs bannis"
 
 #: backstage/bans.php:133 backstage/bans.php:459 backstage/users.php:547
 msgid "Expire date"
-msgstr ""
+msgstr "Date d'expiration"
 
 #: backstage/bans.php:133 backstage/users.php:550
 msgid "When does the ban expire, blank for manually"
 msgstr ""
+"Quand l'interdiction expire, laisser vide pour manuellement retirer "
+"l'interdiction"
 
 #: backstage/bans.php:135 backstage/bans.php:446 backstage/bans.php:448
 #: backstage/users.php:872 backstage/users.php:874 backstage/users.php:878
@@ -886,32 +907,36 @@ msgstr ""
 #: backstage/bans.php:142 backstage/users.php:534 backstage/users.php:712
 #: backstage/users.php:774
 msgid "Ban"
-msgstr ""
+msgstr "Interdiction"
 
 #: backstage/bans.php:161
 msgid ""
 "You must enter either a username, an IP address or an email address (at "
 "least)."
 msgstr ""
+"Vous devez au moins entrer soit un nom d'utilisateur, une adresse IP ou une "
+"adresse courriel."
 
 #: backstage/bans.php:163
 msgid "The guest user cannot be banned."
-msgstr ""
+msgstr "Un utilisateur invité ne peut pas être exclu."
 
 #: backstage/bans.php:196 backstage/bans.php:208
 msgid "You entered an invalid IP/IP-range."
-msgstr ""
+msgstr "Vous avez entré une IP/plage d'IP invalide."
 
 #: backstage/bans.php:222
 msgid ""
 "The email address (e.g. user@domain.com) or partial email address domain (e."
 "g. domain.com) you entered is invalid."
 msgstr ""
+"L'adresse courriel (ex.: utilisateur@domaine.com) ou le domaine d'adresse "
+"courriel partiel (ex.: domaine.com) que vous avez entré est invalide."
 
 #: backstage/bans.php:229 backstage/bans.php:235 backstage/bans.php:299
 #: backstage/bans.php:308 backstage/users.php:481 backstage/users.php:487
 msgid "You entered an invalid expire date."
-msgstr ""
+msgstr "Vous avez entré une date d'expiration invalide."
 
 #: backstage/bans.php:229 backstage/bans.php:235 backstage/users.php:481
 #: backstage/users.php:487
@@ -919,68 +944,72 @@ msgid ""
 "The format should be YYYY-MM-DD and the date must be at least one day in the "
 "future."
 msgstr ""
+"Le format devrait être YYYY-MM-DD et la date devrait être au moins une "
+"journée dans le futur."
 
 #: backstage/bans.php:334 backstage/bans.php:342 backstage/users.php:34
 #: backstage/users.php:42 backstage/users.php:105 backstage/users.php:113
 #: backstage/users.php:694 backstage/users.php:703
 msgid "Search Results"
-msgstr ""
+msgstr "Résultats de la recherche"
 
 #: backstage/bans.php:352 backstage/users.php:50
 msgid "IP/IP-ranges"
-msgstr ""
+msgstr "IP/plage d'IP"
 
 #: backstage/bans.php:353
 msgid "Expires"
-msgstr ""
+msgstr "Expire"
 
 #: backstage/bans.php:354 backstage/bans.php:441 backstage/reports.php:59
 #: backstage/reports.php:116 backstage/index.php:154
 #: themes/Fifteen/inbox-new.php:74 themes/Fifteen/settings.php:43
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: backstage/bans.php:355
 msgid "Banned by"
-msgstr ""
+msgstr "Banni par"
 
 #: backstage/bans.php:356 backstage/users.php:126 backstage/users.php:730
 #: backstage/reports.php:60 backstage/ranks.php:138
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #: backstage/bans.php:366 backstage/board.php:620 backstage/groups.php:639
 #: include/draw_functions.php:693 include/draw_functions.php:711
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #: backstage/bans.php:366 backstage/censoring.php:142 backstage/board.php:83
 #: backstage/board.php:452 backstage/board.php:556 backstage/board.php:620
 #: backstage/ranks.php:153
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 #: backstage/bans.php:376
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 #: backstage/bans.php:383 backstage/users.php:763
 msgid "No match"
-msgstr ""
+msgstr "Aucune correspondance"
 
 #: backstage/bans.php:406
 msgid "Add ban"
-msgstr ""
+msgstr "Ajouter interdiction"
 
 #: backstage/bans.php:417
 msgid ""
 "The username you want to ban. If you want to ban a specific IP/IP-range or "
 "email, leave it blank."
 msgstr ""
+"L'utilisateur que vous voulez exclure. Si vous voulez exclure une adresse IP/"
+"plage d'adresse IP ou une adresse courriel spécifique, laisser vide."
 
 #: backstage/bans.php:425
 msgid "Ban search"
-msgstr ""
+msgstr "Recherche d'interdiction"
 
 #: backstage/bans.php:429
 msgid ""
@@ -988,102 +1017,109 @@ msgid ""
 "for. Wildcards in the form of asterisks (*) are accepted. To show all bans "
 "leave all fields empty."
 msgstr ""
+"Recherche pour les interdiction dans la base de données. Vous devez entrer "
+"un ou plusieurs termes à chercher. Les jokers sous la forme d'astérisques "
+"(*) sont acceptés. Pour voir toutes les interdictions, laisser tous les "
+"champs vides."
 
 #: backstage/bans.php:445
 msgid "Expire after"
-msgstr ""
+msgstr "Expire après"
 
 #: backstage/bans.php:447
 msgid "Expire before"
-msgstr ""
+msgstr "Expire avant"
 
 #: backstage/bans.php:451 backstage/users.php:889
 msgid "Order by"
-msgstr ""
+msgstr "En ordre de"
 
 #: backstage/bans.php:457
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: backstage/bans.php:464 backstage/users.php:899
 #: themes/Fifteen/search-advanced.php:39
 msgid "Ascending"
-msgstr ""
+msgstr "Croissant"
 
 #: backstage/bans.php:465 backstage/users.php:900
 #: themes/Fifteen/search-advanced.php:38
 msgid "Descending"
-msgstr ""
+msgstr "Décroissant"
 
 #: backstage/email.php:36 backstage/settings.php:86
 msgid ""
 "You need to enter the SMTP password twice exactly the same to change it."
 msgstr ""
+"Vous devez entrer le mot de passe SMTP deux fois exactement pareil pour le "
+"changer"
 
 #: backstage/email.php:61 backstage/settings.php:130
 msgid "Global settings"
-msgstr ""
+msgstr "Paramètres globaux"
 
 #: backstage/email.php:72
 msgid "Contact settings"
-msgstr ""
+msgstr "Paramètres de contact"
 
 #: backstage/email.php:78
 msgid "Admin email"
-msgstr ""
+msgstr "Courriel administrateur"
 
 #: backstage/email.php:78
 msgid "The admins email"
-msgstr ""
+msgstr "Le courriel des administrateurs"
 
 #: backstage/email.php:84
 msgid "Webmaster email"
-msgstr ""
+msgstr "Courriel du webmaster"
 
 #: backstage/email.php:84
 msgid "The email where the boards mails will be addressed from"
-msgstr ""
+msgstr "L'adresse courriel d'où les courriels de planches seront envoyés"
 
 #: backstage/email.php:93 backstage/email.php:99
 #: themes/Fifteen/settings.php:252
 msgid "Subscriptions"
-msgstr ""
+msgstr "Abonnements"
 
 #: backstage/email.php:104
 msgid "Enable users to subscribe to forums."
-msgstr ""
+msgstr "Activer l'abonnement des utilisateurs aux forums."
 
 #: backstage/email.php:110
 msgid "Enable users to subscribe to topics."
-msgstr ""
+msgstr "Activer l'abonnement des utilisateurs aux sujets."
 
 #: backstage/email.php:120
 msgid "SMTP settings"
-msgstr ""
+msgstr "Paramètres SMTP"
 
 #: backstage/email.php:126
 msgid "SMTP server address"
-msgstr ""
+msgstr "Adresse du serveur SMTP"
 
 #: backstage/email.php:126
 msgid "The address of an external SMTP server to send emails with"
-msgstr ""
+msgstr "L'adresse d'un serveur SMTP externe pour envoyer les courriels"
 
 #: backstage/email.php:132
 msgid "SMTP username"
-msgstr ""
+msgstr "Nom d'utilisateur SMTP"
 
 #: backstage/email.php:132
 msgid "Username for SMTP server, only if required"
-msgstr ""
+msgstr "Nom d'utilisateur du serveur SMTP, uniquement si nécessaire"
 
 #: backstage/email.php:138
 msgid "SMTP password"
-msgstr ""
+msgstr "Mot de passe SMTP"
 
 #: backstage/email.php:138
 msgid "Password and confirmation for SMTP server, only when required"
 msgstr ""
+"Mot de passe et confirmation pour le serveur SMTP, uniquement si nécessaire"
 
 #: backstage/email.php:143
 msgid ""
